@@ -1,0 +1,14 @@
+{
+  "name": "createanideaapp",
+  "version": "1.0.0",
+  "description": "\"an idea about any topic\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "\"shivam gupta\"",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
