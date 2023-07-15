@@ -1,7 +1,5 @@
 //dependencies caling 
 const express = require("express")
-//using the method of express 
-const app = express();
 const configServer = require("./configs/server.config")
 
 
